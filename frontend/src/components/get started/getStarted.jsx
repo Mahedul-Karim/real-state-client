@@ -1,5 +1,5 @@
 import React from "react";
-import "./GetStarted.css";
+import "./getStarted.css";
 const GetStarted = () => {
   return (
     <div id="get-started" className="g-wrapper">
